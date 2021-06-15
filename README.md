@@ -1,4 +1,3 @@
-#![](https://github.com/Willie-The-Lord/Willie-The-Lord/blob/main/intro.gif?raw=true)
 
 
 <h1 align='center'>
@@ -9,6 +8,9 @@
   A graduate student from Hsinchu, Taiwan.
 </p>
 
+<p align='center'>
+#![](https://github.com/Willie-The-Lord/Willie-The-Lord/blob/main/intro.gif?raw=true)
+</p>
 
 
 <p align='center'>
