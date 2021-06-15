@@ -9,7 +9,7 @@
 </p>
 
 <p align='center'>
-#![](https://github.com/Willie-The-Lord/Willie-The-Lord/blob/main/intro.gif?raw=true)
+![](https://github.com/Willie-The-Lord/Willie-The-Lord/blob/main/intro.gif?raw=true)
 </p>
 
 
