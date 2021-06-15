@@ -1,20 +1,12 @@
-
-
 <h1 align='center'>
-  Whassupp 👋 I'm Willie Hung 👩‍💻
+  Whassuppp 👋 I'm Willie Hung 👩‍💻
 </h1>
-
-
-
-
 
 <p align="center">
   <img src="https://github.com/Willie-The-Lord/Willie-The-Lord/blob/main/intro.gif?raw=true" alt="animated" />
 </p>
 
-
 <p align='center'>
-  
   <a href="https://www.linkedin.com/in/willie-hung/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -23,9 +15,7 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.kaggle.com/sungjiehung">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-  
+  </a>&nbsp;&nbsp; 
 </p>
 
 
