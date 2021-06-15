@@ -4,12 +4,12 @@
   Whassupp 👋 I'm Willie Hung 👩‍💻
 </h1>
 
-<p align='center'>
-  A graduate student from Hsinchu, Taiwan.
-</p>
 
-<p align='center'>
-![](https://github.com/Willie-The-Lord/Willie-The-Lord/blob/main/intro.gif?raw=true)
+
+
+
+<p align="center">
+  <img src="https://github.com/Willie-The-Lord/Willie-The-Lord/blob/main/intro.gif?raw=true" alt="animated" />
 </p>
 
 
