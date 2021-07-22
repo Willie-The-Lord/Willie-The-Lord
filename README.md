@@ -24,5 +24,5 @@
 </p> -->
 
 <p align='center'>
-  <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWillie-The-Lord&count_bg=%23000000&title_bg=%23000000&icon=mediafire.svg&icon_color=%23FF0000&title=Visitors&edge_flat=false"></a> Chillin' here🏖
+  <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWillie-The-Lord&count_bg=%23000000&title_bg=%23000000&icon=mediafire.svg&icon_color=%23FF0000&title=Visitors&edge_flat=false"></a> Chillin' here
 </p>
