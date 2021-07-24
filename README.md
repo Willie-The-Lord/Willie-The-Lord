@@ -1,6 +1,6 @@
-<h1 align='center'>
+<!-- <h1 align='center'>
   Whassuppp 👋 I'm Willie Hung 👩‍💻
-</h1>
+</h1> -->
 
 <p align="center">
   <img src="https://github.com/Willie-The-Lord/Willie-The-Lord/blob/main/intro.gif?raw=true" alt="animated" />
