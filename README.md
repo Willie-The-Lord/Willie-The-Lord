@@ -11,7 +11,10 @@
   </a>&nbsp;&nbsp; 
   <a href="https://hackmd.io/@Willie-The-Lord">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />        
-  </a>&nbsp;&nbsp;   
+  </a>&nbsp;&nbsp;
+  <a href="https://willie880201044@gmail.com/">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 </p>
 
 
