@@ -1,8 +1,4 @@
 <h1 align='center'>
-  Hi, I'm Willie Hung 👋
-</h1> 
-
-<h1 align='center'>
   <img src="https://user-images.githubusercontent.com/65143821/142588800-4188095f-2ad5-407a-b420-6add24c5cf6a.png" />
 </h1> 
 
