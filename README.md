@@ -2,8 +2,9 @@
   Hi, I'm Willie Hung 👋 👩‍💻
 </h1> 
 
-![Minimalist Sunrise Email Header](https://user-images.githubusercontent.com/65143821/142588354-12ce7c60-580e-4673-9dab-a44f2a5b9d98.png)
-
+<h1 align='center'>
+![Minimalist Sunrise Email Header](https://user-images.githubusercontent.com/65143821/142588594-2eaa50b2-7d7c-4f4b-ae41-6c0b16b6754c.png)
+</h1>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/willie-hung/">
