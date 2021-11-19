@@ -2,9 +2,7 @@
   Whassuppp 👋 I'm Willie Hung 👩‍💻
 </h1> -->
 
-<p align="center">
-  <img src="https://github.com/Willie-The-Lord/Willie-The-Lord/blob/main/intro.gif?raw=true" alt="animated" />
-</p>
+
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/willie-hung/">
