@@ -1,7 +1,8 @@
-<!-- <h1 align='center'>
-  Whassuppp 👋 I'm Willie Hung 👩‍💻
-</h1> -->
+<h1 align='center'>
+  Hi, I'm Willie Hung 👋 👩‍💻
+</h1> 
 
+![Minimalist Sunrise Email Header](https://user-images.githubusercontent.com/65143821/142588354-12ce7c60-580e-4673-9dab-a44f2a5b9d98.png)
 
 
 <p align='center'>
@@ -17,9 +18,7 @@
 </p>
 
 
-<!-- <p align='center'>
-  📫 How to reach me: <a href='mailto:willie880201044@gmail.com'>willie880201044@gmail.com</a>
-</p> -->
+
 
 <p align='center'>
   <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWillie-The-Lord&count_bg=%23000000&title_bg=%23000000&icon=mediafire.svg&icon_color=%23FF0000&title=Visitors&edge_flat=false"></a> chillin' here
