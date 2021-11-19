@@ -1,10 +1,10 @@
 <h1 align='center'>
-  Hi, I'm Willie Hung 👋 👩‍💻
+  Hi, I'm Willie Hung 👋
 </h1> 
 
 <h1 align='center'>
-![Minimalist Sunrise Email Header](https://user-images.githubusercontent.com/65143821/142588594-2eaa50b2-7d7c-4f4b-ae41-6c0b16b6754c.png)
-</h1>
+  <img src="https://user-images.githubusercontent.com/65143821/142588800-4188095f-2ad5-407a-b420-6add24c5cf6a.png" />
+</h1> 
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/willie-hung/">
